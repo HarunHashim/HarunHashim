@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- # Hi, I'm Harun  👋
 
-# Hi, I'm Harun 
+I’m a recent Computer Science graduate and software developer interested in C/C++, systems programming, and backend development.
 
-Software developer working across embedded systems, real-time software,
-automotive technology, and backend development.
+[Check out my portfolio page →](https://portfolio-three-lyart-3gwmjw6y42.vercel.app)
 
-[View my portfolio →](https://portfolio-three-lyart-3gwmjw6y42.vercel.app)
+## About Me
 
-## Featured Projects
+I enjoy building interconnected software systems—the kind where multiple processes, services, and hardware-facing components communicate and operate together. I’m particularly interested in C/C++ and backend development involving networking, inter-process communication, concurrency, system integration, and performance-sensitive software.
 
-- QNX-Based Automotive Control System
-- Centaur Ledger API
-- EdgeLink Embedded Connectivity System
+I’m continuing to develop my embedded systems knowledge, especially where embedded components interact with larger software platforms. Long term, I want to contribute to reliable and scalable systems where low latency, efficient communication, and strong architecture matter.
+
+What I enjoy most is breaking down a complicated problem, getting the individual pieces working, and then connecting them to create a complete system.
