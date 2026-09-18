@@ -26,4 +26,6 @@ I enjoy building interconnected software systems—the kind where multiple proce
 
 I’m continuing to develop my embedded systems knowledge, especially where embedded components interact with larger software platforms. Long term, I want to contribute to reliable and scalable systems where low latency, efficient communication, and strong architecture matter.
 
-What I enjoy most is breaking down a complicated problem, getting the individual pieces working, and then connecting them to create a complete system.
+What I enjoy most is breaking down a complicated problem, getting the individual pieces working, and then connecting them to create a complete system. 
+
+Having fun while at it.
