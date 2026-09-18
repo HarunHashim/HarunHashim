@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Harun Mwondi
+
+Software developer working across embedded systems, real-time software,
+automotive technology, and backend development.
+
+[View my portfolio →](https://portfolio-three-lyart-3gwmjw6y42.vercel.app)
+
+## Featured Projects
+
+- QNX-Based Automotive Control System
+- Centaur Ledger API
+- EdgeLink Embedded Connectivity System
