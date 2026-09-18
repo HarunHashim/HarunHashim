@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **HarunHashim/HarunHashim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Harun Mwondi
+# Hi, I'm Harun 
 
 Software developer working across embedded systems, real-time software,
 automotive technology, and backend development.
