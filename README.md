@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- # Hi, I'm Harun  👋
+# Hi, I'm Harun  👋
 
 I’m a recent Computer Science graduate and software developer interested in C/C++, systems programming, and backend development.
 
